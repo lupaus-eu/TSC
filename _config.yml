@@ -1,9 +1,9 @@
 title: TSC model
 description: The TSC model for visualising enterprise services!
 theme: just-the-docs
-color_scheme: "dark"
+#color_scheme: "dark"
 
 url: https://lupaus-eu.github.io/TSC
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
