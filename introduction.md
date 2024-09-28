@@ -1,11 +1,11 @@
 ---
-title: Configuration
+layout: default
+title: Introduction
 nav_order: 2
+permalink: /introduction
 ---
 
-# Configuration
+# Introduction
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
-
-
----
+Ask somebody in the building industry to visually communicate the architecture of a building and you'll be presented
+with s
