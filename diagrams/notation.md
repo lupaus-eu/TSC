@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Team
-parent: Abstractions
+title: Notation
+parent: Diagrams
 nav_order: 4
-permalink: /abstractions/notation
+permalink: /diagrams/notation
 ---
 
 # Notation

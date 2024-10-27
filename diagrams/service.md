@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Service
-parent: Abstractions
+parent: Diagrams
 nav_order: 2
-permalink: /abstractions/service
+permalink: /diagrams/service
 ---
 
 # Service

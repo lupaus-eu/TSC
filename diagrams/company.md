@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Company
-parent: Abstractions
+parent: Diagrams
 nav_order: 1
-permalink: /abstractions/company
+permalink: /diagrams/company
 ---
 
 # Company

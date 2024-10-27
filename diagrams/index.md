@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Abstractions
+title: Diagrams
 nav_order: 3
 has_children: true
-permalink: /abstractions
+permalink: /diagrams
 has_toc: false
 ---
 
-# Abstractions
+# Diagrams
 
 In order to create some "maps of your code", we first need a common set of abstractions
 that we can use 

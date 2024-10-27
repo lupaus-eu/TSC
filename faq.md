@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: FAQ
 nav_order: 4
 permalink: /faq
 ---

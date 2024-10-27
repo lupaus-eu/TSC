@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Team
-parent: Abstractions
+parent: Diagrams
 nav_order: 3
-permalink: /abstractions/team
+permalink: /diagrams/team
 ---
 
 # Team
